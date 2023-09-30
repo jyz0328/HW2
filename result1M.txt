@@ -1,0 +1,301 @@
+Bisection 16807 vs Dictionary 16807
+Value found for first pass = 35936202 for  key = 35936202
+Bisection: Time =  1.317e-06 OpCount = 0
+Dictionary: Time =  4.44e-07 OpCount =  0
+Bisection 475249 vs Dictionary 475249
+Bisection: Time =  1.943e-06 OpCount = 0
+Dictionary: Time =  2.1e-07 OpCount =  0
+Bisection 650073 vs Dictionary 650073
+Bisection: Time =  1.352e-06 OpCount = 0
+Dictionary: Time =  2.17e-07 OpCount =  0
+Bisection 943658 vs Dictionary 943658
+Bisection: Time =  1.096e-06 OpCount = 0
+Dictionary: Time =  1.39e-07 OpCount =  0
+Bisection 108930 vs Dictionary 108930
+Bisection: Time =  2.094e-06 OpCount = 0
+Dictionary: Time =  3.27e-07 OpCount =  0
+Bisection 211272 vs Dictionary 211272
+Bisection: Time =  1.738e-06 OpCount = 0
+Dictionary: Time =  3.21e-07 OpCount =  0
+Bisection 27544 vs Dictionary 27544
+Bisection: Time =  7.04e-07 OpCount = 0
+Dictionary: Time =  2.8e-07 OpCount =  0
+Bisection 850878 vs Dictionary 850878
+Bisection: Time =  1.349e-06 OpCount = 0
+Dictionary: Time =  1.97e-07 OpCount =  0
+Bisection 777923 vs Dictionary 777923
+Bisection: Time =  1.443e-06 OpCount = 0
+Dictionary: Time =  2.43e-07 OpCount =  0
+Bisection 237709 vs Dictionary 237709
+Bisection: Time =  1.528e-06 OpCount = 0
+Dictionary: Time =  2.14e-07 OpCount =  0
+Bisection 564440 vs Dictionary 564440
+Bisection: Time =  1.824e-06 OpCount = 0
+Dictionary: Time =  3.1e-07 OpCount =  0
+Bisection 438165 vs Dictionary 438165
+Bisection: Time =  1.388e-06 OpCount = 0
+Dictionary: Time =  2.46e-07 OpCount =  0
+Bisection 484492 vs Dictionary 484492
+Bisection: Time =  1.673e-06 OpCount = 0
+Dictionary: Time =  2.3e-07 OpCount =  0
+Bisection 243042 vs Dictionary 243042
+Bisection: Time =  8.14e-07 OpCount = 0
+Dictionary: Time =  1.69e-07 OpCount =  0
+Bisection 807987 vs Dictionary 807987
+Bisection: Time =  1.076e-06 OpCount = 0
+Dictionary: Time =  3.11e-07 OpCount =  0
+Bisection 522503 vs Dictionary 522503
+Bisection: Time =  1.782e-06 OpCount = 0
+Dictionary: Time =  1.78e-07 OpCount =  0
+Bisection 282327 vs Dictionary 282327
+Bisection: Time =  1.928e-06 OpCount = 0
+Dictionary: Time =  1.66e-07 OpCount =  0
+Bisection 531729 vs Dictionary 531729
+Bisection: Time =  1.483e-06 OpCount = 0
+Dictionary: Time =  1.69e-07 OpCount =  0
+Bisection 378840 vs Dictionary 378840
+Bisection: Time =  1.76e-06 OpCount = 0
+Dictionary: Time =  2.85e-07 OpCount =  0
+Bisection 542612 vs Dictionary 542612
+Bisection: Time =  8.84e-07 OpCount = 0
+Dictionary: Time =  2.76e-07 OpCount =  0
+Bisection 544303 vs Dictionary 544303
+Bisection: Time =  6.71e-07 OpCount = 0
+Dictionary: Time =  1.22e-07 OpCount =  0
+Bisection 833169 vs Dictionary 833169
+Bisection: Time =  1.032e-06 OpCount = 0
+Dictionary: Time =  3.39e-07 OpCount =  0
+Bisection 817709 vs Dictionary 817709
+Bisection: Time =  8.34e-07 OpCount = 0
+Dictionary: Time =  2.55e-07 OpCount =  0
+Bisection 97157 vs Dictionary 97157
+Bisection: Time =  1.816e-06 OpCount = 0
+Dictionary: Time =  1.37e-07 OpCount =  0
+Bisection 129560 vs Dictionary 129560
+Bisection: Time =  1.485e-06 OpCount = 0
+Dictionary: Time =  1.5e-07 OpCount =  0
+Bisection 570933 vs Dictionary 570933
+Bisection: Time =  9.68e-07 OpCount = 0
+Dictionary: Time =  2.82e-07 OpCount =  0
+Bisection 493099 vs Dictionary 493099
+Bisection: Time =  1.101e-06 OpCount = 0
+Dictionary: Time =  3.17e-07 OpCount =  0
+Bisection 280278 vs Dictionary 280278
+Bisection: Time =  1.374e-06 OpCount = 0
+Dictionary: Time =  2.56e-07 OpCount =  0
+Bisection 351816 vs Dictionary 351816
+Bisection: Time =  2.124e-06 OpCount = 0
+Dictionary: Time =  1.51e-07 OpCount =  0
+Bisection 795335 vs Dictionary 795335
+Bisection: Time =  1.394e-06 OpCount = 0
+Dictionary: Time =  3.71e-07 OpCount =  0
+Bisection 899097 vs Dictionary 899097
+Bisection: Time =  1.139e-06 OpCount = 0
+Dictionary: Time =  2.52e-07 OpCount =  0
+Bisection 807826 vs Dictionary 807826
+Bisection: Time =  1.195e-06 OpCount = 0
+Dictionary: Time =  2.86e-07 OpCount =  0
+Bisection 613512 vs Dictionary 613512
+Bisection: Time =  1.699e-06 OpCount = 0
+Dictionary: Time =  2.41e-07 OpCount =  0
+Bisection 929267 vs Dictionary 929267
+Bisection: Time =  1.047e-06 OpCount = 0
+Dictionary: Time =  2.18e-07 OpCount =  0
+Bisection 723810 vs Dictionary 723810
+Bisection: Time =  1.32e-06 OpCount = 0
+Dictionary: Time =  1.81e-07 OpCount =  0
+Bisection 877633 vs Dictionary 877633
+Bisection: Time =  2.279e-06 OpCount = 0
+Dictionary: Time =  1.64e-07 OpCount =  0
+Bisection 580979 vs Dictionary 580979
+Bisection: Time =  8.67e-07 OpCount = 0
+Dictionary: Time =  1.14e-07 OpCount =  0
+Bisection 379149 vs Dictionary 379149
+Bisection: Time =  1.5e-06 OpCount = 0
+Dictionary: Time =  2.34e-07 OpCount =  0
+Bisection 236579 vs Dictionary 236579
+Bisection: Time =  9.07e-07 OpCount = 0
+Dictionary: Time =  1.05e-07 OpCount =  0
+Bisection 558821 vs Dictionary 558821
+Bisection: Time =  7.06e-07 OpCount = 0
+Dictionary: Time =  1.53e-07 OpCount =  0
+Bisection 511967 vs Dictionary 511967
+Bisection: Time =  1.407e-06 OpCount = 0
+Dictionary: Time =  1.48e-07 OpCount =  0
+Bisection 10672 vs Dictionary 10672
+Bisection: Time =  1.622e-06 OpCount = 0
+Dictionary: Time =  1.3e-07 OpCount =  0
+Bisection 901393 vs Dictionary 901393
+Bisection: Time =  8.18e-07 OpCount = 0
+Dictionary: Time =  2.37e-07 OpCount =  0
+Bisection 819336 vs Dictionary 819336
+Bisection: Time =  7.01e-07 OpCount = 0
+Dictionary: Time =  2.41e-07 OpCount =  0
+Bisection 125485 vs Dictionary 125485
+Bisection: Time =  8.27e-07 OpCount = 0
+Dictionary: Time =  2.49e-07 OpCount =  0
+Bisection 91745 vs Dictionary 91745
+Bisection: Time =  1.347e-06 OpCount = 0
+Dictionary: Time =  1.42e-07 OpCount =  0
+Bisection 425228 vs Dictionary 425228
+Bisection: Time =  1.637e-06 OpCount = 0
+Dictionary: Time =  1.19e-07 OpCount =  0
+Bisection 894091 vs Dictionary 894091
+Bisection: Time =  7.91e-07 OpCount = 0
+Dictionary: Time =  1.83e-07 OpCount =  0
+Bisection 640194 vs Dictionary 640194
+Bisection: Time =  9.54e-07 OpCount = 0
+Dictionary: Time =  2.02e-07 OpCount =  0
+Bisection 186357 vs Dictionary 186357
+Bisection: Time =  1.259e-06 OpCount = 0
+Dictionary: Time =  2.17e-07 OpCount =  0
+Bisection 35001 vs Dictionary 35001
+Bisection: Time =  1.193e-06 OpCount = 0
+Dictionary: Time =  1.64e-07 OpCount =  0
+Bisection 921153 vs Dictionary 921153
+Bisection: Time =  9.12e-07 OpCount = 0
+Dictionary: Time =  2.44e-07 OpCount =  0
+Bisection 616708 vs Dictionary 616708
+Bisection: Time =  1.041e-06 OpCount = 0
+Dictionary: Time =  2.91e-07 OpCount =  0
+Bisection 357944 vs Dictionary 357944
+Bisection: Time =  8.38e-07 OpCount = 0
+Dictionary: Time =  2.05e-07 OpCount =  0
+Bisection 515668 vs Dictionary 515668
+Bisection: Time =  9.74e-07 OpCount = 0
+Dictionary: Time =  1.71e-07 OpCount =  0
+Bisection 571490 vs Dictionary 571490
+Bisection: Time =  6.5e-07 OpCount = 0
+Dictionary: Time =  4.57e-07 OpCount =  0
+Bisection 788124 vs Dictionary 788124
+Bisection: Time =  6.98e-07 OpCount = 0
+Dictionary: Time =  2.47e-07 OpCount =  0
+Bisection 702196 vs Dictionary 702196
+Bisection: Time =  9.28e-07 OpCount = 0
+Dictionary: Time =  2.44e-07 OpCount =  0
+Bisection 509530 vs Dictionary 509530
+Bisection: Time =  8.96e-07 OpCount = 0
+Dictionary: Time =  4.2e-07 OpCount =  0
+Bisection 60903 vs Dictionary 60903
+Bisection: Time =  1.105e-06 OpCount = 0
+Dictionary: Time =  1.59e-07 OpCount =  0
+Bisection 727722 vs Dictionary 727722
+Bisection: Time =  8.53e-07 OpCount = 0
+Dictionary: Time =  2.68e-07 OpCount =  0
+Bisection 454666 vs Dictionary 454666
+Bisection: Time =  1.492e-06 OpCount = 0
+Dictionary: Time =  2.41e-07 OpCount =  0
+Bisection 728549 vs Dictionary 728549
+Bisection: Time =  1.712e-06 OpCount = 0
+Dictionary: Time =  3.17e-07 OpCount =  0
+Bisection 118024 vs Dictionary 118024
+Bisection: Time =  7.57e-07 OpCount = 0
+Dictionary: Time =  2.49e-07 OpCount =  0
+Bisection 797801 vs Dictionary 797801
+Bisection: Time =  9.21e-07 OpCount = 0
+Dictionary: Time =  2.73e-07 OpCount =  0
+Bisection 806853 vs Dictionary 806853
+Bisection: Time =  8.9e-07 OpCount = 0
+Dictionary: Time =  2.5e-07 OpCount =  0
+Bisection 540977 vs Dictionary 540977
+Bisection: Time =  1.076e-06 OpCount = 0
+Dictionary: Time =  3.29e-07 OpCount =  0
+Bisection 847408 vs Dictionary 847408
+Bisection: Time =  1.184e-06 OpCount = 0
+Dictionary: Time =  3.6e-07 OpCount =  0
+Bisection 308228 vs Dictionary 308228
+Bisection: Time =  1.661e-06 OpCount = 0
+Dictionary: Time =  1.69e-07 OpCount =  0
+Bisection 374933 vs Dictionary 374933
+Bisection: Time =  1.688e-06 OpCount = 0
+Dictionary: Time =  2.4e-07 OpCount =  0
+Bisection 260298 vs Dictionary 260298
+Bisection: Time =  1.627e-06 OpCount = 0
+Dictionary: Time =  1.68e-07 OpCount =  0
+Bisection 938981 vs Dictionary 938981
+Bisection: Time =  1.09e-06 OpCount = 0
+Dictionary: Time =  1.62e-07 OpCount =  0
+Bisection 28635 vs Dictionary 28635
+Bisection: Time =  8.94e-07 OpCount = 0
+Dictionary: Time =  2.44e-07 OpCount =  0
+Bisection 408013 vs Dictionary 408013
+Bisection: Time =  1.082e-06 OpCount = 0
+Dictionary: Time =  2.93e-07 OpCount =  0
+Bisection 623865 vs Dictionary 623865
+Bisection: Time =  1.189e-06 OpCount = 0
+Dictionary: Time =  1.94e-07 OpCount =  0
+Bisection 389814 vs Dictionary 389814
+Bisection: Time =  1.871e-06 OpCount = 0
+Dictionary: Time =  1.65e-07 OpCount =  0
+Bisection 739063 vs Dictionary 739063
+Bisection: Time =  9.08e-07 OpCount = 0
+Dictionary: Time =  1.76e-07 OpCount =  0
+Bisection 554536 vs Dictionary 554536
+Bisection: Time =  7.54e-07 OpCount = 0
+Dictionary: Time =  1.65e-07 OpCount =  0
+Bisection 339425 vs Dictionary 339425
+Bisection: Time =  1.488e-06 OpCount = 0
+Dictionary: Time =  1.41e-07 OpCount =  0
+Bisection 1669 vs Dictionary 1669
+Bisection: Time =  8.35e-07 OpCount = 0
+Dictionary: Time =  1.47e-07 OpCount =  0
+Bisection 724115 vs Dictionary 724115
+Bisection: Time =  7.34e-07 OpCount = 0
+Dictionary: Time =  1.89e-07 OpCount =  0
+Bisection 220094 vs Dictionary 220094
+Bisection: Time =  1.856e-06 OpCount = 0
+Dictionary: Time =  2.09e-07 OpCount =  0
+Bisection 75629 vs Dictionary 75629
+Bisection: Time =  1.608e-06 OpCount = 0
+Dictionary: Time =  1.65e-07 OpCount =  0
+Bisection 446501 vs Dictionary 446501
+Bisection: Time =  4.3428e-05 OpCount = 0
+Dictionary: Time =  2.4e-07 OpCount =  0
+Bisection 546517 vs Dictionary 546517
+Bisection: Time =  8.62e-07 OpCount = 0
+Dictionary: Time =  2.05e-07 OpCount =  0
+Bisection 934195 vs Dictionary 934195
+Bisection: Time =  1.205e-06 OpCount = 0
+Dictionary: Time =  1.64e-07 OpCount =  0
+Bisection 30105 vs Dictionary 30105
+Bisection: Time =  1.25e-06 OpCount = 0
+Dictionary: Time =  2.05e-07 OpCount =  0
+Bisection 810404 vs Dictionary 810404
+Bisection: Time =  1.046e-06 OpCount = 0
+Dictionary: Time =  3.11e-07 OpCount =  0
+Bisection 319451 vs Dictionary 319451
+Bisection: Time =  1.303e-06 OpCount = 0
+Dictionary: Time =  1.42e-07 OpCount =  0
+Bisection 194298 vs Dictionary 194298
+Bisection: Time =  1.239e-06 OpCount = 0
+Dictionary: Time =  2.55e-07 OpCount =  0
+Bisection 782188 vs Dictionary 782188
+Bisection: Time =  1.411e-06 OpCount = 0
+Dictionary: Time =  1.9e-07 OpCount =  0
+Bisection 821123 vs Dictionary 821123
+Bisection: Time =  1.251e-06 OpCount = 0
+Dictionary: Time =  2.84e-07 OpCount =  0
+Bisection 799505 vs Dictionary 799505
+Bisection: Time =  8.63e-07 OpCount = 0
+Dictionary: Time =  3.69e-07 OpCount =  0
+Bisection 246882 vs Dictionary 246882
+Bisection: Time =  1.077e-06 OpCount = 0
+Dictionary: Time =  1.75e-07 OpCount =  0
+Bisection 406752 vs Dictionary 406752
+Bisection: Time =  1.068e-06 OpCount = 0
+Dictionary: Time =  1.84e-07 OpCount =  0
+Bisection 731566 vs Dictionary 731566
+Bisection: Time =  1.128e-06 OpCount = 0
+Dictionary: Time =  2.56e-07 OpCount =  0
+Bisection 936716 vs Dictionary 936716
+Bisection: Time =  1.267e-06 OpCount = 0
+Dictionary: Time =  1.4e-07 OpCount =  0
+Bisection 130337 vs Dictionary 130337
+Bisection: Time =  1.254e-06 OpCount = 0
+Dictionary: Time =  1.81e-07 OpCount =  0
+Bisection 354438 vs Dictionary 354438
+Bisection: Time =  1.147e-06 OpCount = 0
+Dictionary: Time =  1.34e-07 OpCount =  0
+Bisection 53144 vs Dictionary 53144
+Bisection: Time =  9.49e-07 OpCount = 0
+Dictionary: Time =  2.82e-07 OpCount =  0
